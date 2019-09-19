@@ -88,6 +88,7 @@ class BullsEyeTests: XCTestCase {
     XCTAssertEqual(initialRoundNumber+1, game.round)
     
     // 4. Check the points for the round
+    //test
     // -------------------------
     XCTAssertEqual(0, game.scoreRound)
     

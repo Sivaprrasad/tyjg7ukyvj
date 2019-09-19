@@ -64,6 +64,7 @@ class BullsEyeUITests: XCTestCase {
     // 2. Check that the hit me button exists
     XCTAssertEqual(true, hitMeButton.exists)
     
+    //Test
     // 3. Click on the Hit Me Button
     hitMeButton.tap()
     
